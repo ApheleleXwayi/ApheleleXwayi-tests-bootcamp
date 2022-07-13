@@ -4,7 +4,7 @@ function greet(name){
   var results = 'Hello, ' + name
   return results
   }
-2// isFromBellville 
+/* isFromBellville 
 
 function isFromBellville (input){
 return input.startsWith('CY')
@@ -65,7 +65,7 @@ myArray.push(eachReg)
  return myArray
 }
 
-// 8isFrom
+// FromWhere
 
   function isFrom(regNo,regEnd){
     //return regNo.startsWith(regEnd)
@@ -202,4 +202,4 @@ function mostProfitableDay(salesData) {
     }
   }
   return mostProfitableDay;
-};
+};*/

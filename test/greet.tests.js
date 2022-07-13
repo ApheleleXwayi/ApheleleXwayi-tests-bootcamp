@@ -13,7 +13,7 @@ describe('Testing greet function' , function(){
         assert.equal( "Hello, Aphelele", greet("Aphelele"));
     });
 });
-
+/*
 // isFromBellville
 describe('testing the regstration is fromBellvel function' , function(){
     it('it should return "false" when the registration does not start with "CY"' , function(){
@@ -272,4 +272,4 @@ it('it should return the list2 of mostProfitableDay  ' ,function(){
    
 
 });  
-});  
+});  */
